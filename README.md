@@ -1,0 +1,2 @@
+# crypto-herdcoin
+Here is my code for the Ethereum Remix IDE.  This project is coded in Solidity and is essentially copy paste if you are trying to replicate my coin.  I set a coin cap of 100,000  but you can change that as you like,  As well as the default decimal value for my code is 0.  The "standard" decimal value for most modern cryptos is 18.  Since this is a ERC-20 token any number 0-18 will be plenty sufficient but make sure you match the total circulation along with your decimal value.
